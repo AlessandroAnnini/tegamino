@@ -1,0 +1,22 @@
+{
+  "name": "tegamino",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A powerful and flexible JavaScript framework for creating, manipulating, and managing recipes.",
+  "main": "recipe-framework.js",
+  "scripts": {
+    "example": "node examples/latte_biscotti.js"
+  },
+  "keywords": [
+    "recipe",
+    "cooking",
+    "food",
+    "kitchen",
+    "culinary"
+  ],
+  "author": "Alessandro Annini",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0"
+  }
+}
